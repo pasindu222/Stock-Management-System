@@ -13,6 +13,11 @@ The Stock Management System is a Java-based software solution developed in NetBe
 - **Inventory Tracking:** Keep track of stock quantity and product price.
 - **Order Management:** Manage incoming and outgoing stock orders.
 
+
+![stock and selling](https://github.com/pasindu222/Stock-Management-System/assets/152992854/49a3c3db-3214-4c4f-bb31-23631d07c4ad)
+
+
+
 ## Technologies Used
 
 - **Programming Language:** Java
