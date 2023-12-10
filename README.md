@@ -1,5 +1,8 @@
 # Stock Management System
 
+![loging page](https://github.com/pasindu222/Stock-Management-System/assets/152992854/a7c15f71-c978-4ad8-a0f4-c1b14d028837)
+
+
 ## Overview
 
 The Stock Management System is a Java-based software solution developed in NetBeans IDE to efficiently manage and track inventory for businesses. It uses an SQLite database to store product information, stock quantity, and product price. The application provides features for adding, updating, and removing products from the inventory, as well as selling page u can use to make a bill for customer adding discount also.
